@@ -1,4 +1,4 @@
-# Habits - NLW 2023 (Ignite)
+# upload.ai - NLW 2023 (Ignite)
 
 <div>
   <img src="https://img.shields.io/static/v1?label=Taught%20by&message=Rocketseat&color=white&labelColor=000" alt="Taught by Rocketseat">
